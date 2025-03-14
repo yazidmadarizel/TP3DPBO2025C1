@@ -2,7 +2,7 @@
 
 Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-### ** Desain Program**
+### Desain Program
 
 Program ini dirancang untuk merepresentasikan sebuah komputer dan komponennya dengan konsep Pemrograman Berorientasi Objek (OOP). Berikut adalah alur utama program:
 
