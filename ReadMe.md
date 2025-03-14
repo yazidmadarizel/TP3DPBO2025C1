@@ -2,7 +2,7 @@
 
 Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-### ** Alur Program**
+### ** Desain Program**
 
 Program ini dirancang untuk merepresentasikan sebuah komputer dan komponennya dengan konsep Pemrograman Berorientasi Objek (OOP). Berikut adalah alur utama program:
 
@@ -25,3 +25,13 @@ Program ini dirancang untuk merepresentasikan sebuah komputer dan komponennya de
    - `displayInfo()`: Menampilkan spesifikasi lengkap komputer.
 
 ---
+
+### ** Desain Diagram**
+
+![tp3-diagram](https://github.com/user-attachments/assets/3cbcac09-da8d-455a-a3fe-9fa9eb9e85f1)
+
+### ** Dokumentasi**
+
+![dokumentasi cpp 1](https://github.com/user-attachments/assets/95531c58-6b9e-416d-9d4e-c73f0eb32ead)
+
+
