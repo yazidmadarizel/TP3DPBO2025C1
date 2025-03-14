@@ -26,11 +26,11 @@ Program ini dirancang untuk merepresentasikan sebuah komputer dan komponennya de
 
 ---
 
-### ** Desain Diagram**
+### ** Desain Diagram **
 
 ![tp3-diagram](https://github.com/user-attachments/assets/3cbcac09-da8d-455a-a3fe-9fa9eb9e85f1)
 
-### ** Dokumentasi**
+### ** Dokumentasi **
 
 ![dokumentasi cpp 1](https://github.com/user-attachments/assets/95531c58-6b9e-416d-9d4e-c73f0eb32ead)
 
